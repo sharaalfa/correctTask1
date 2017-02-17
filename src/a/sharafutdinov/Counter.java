@@ -1,8 +1,6 @@
 package a.sharafutdinov;
 
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by innopolis on 08.02.17.
